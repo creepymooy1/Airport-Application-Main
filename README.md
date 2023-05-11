@@ -1,6 +1,6 @@
 # Airport-Application-Main
 
-This is a text-based airport application that provides basic features such as flight status report, seat reservation, movie selection, and emergency decision-making for clients. This program can be used to book a seat on a flight, check the status of a flight, select a movie to watch, and help the crew make decisions in case of an emergency.
+This is a text-based airport application that provides basic features such as flight status report, seat reservation, movie selection, and emergency decision-making for clients. This program can be used to book a seat on a flight, check the status of a flight, select a movie to watch, and help the crew make decisions in case of an emergency. This repository contains multiple C++ programs for different purposes. Each program has its own set of functions and can be compiled and run through main.cpp. Below is a brief description of each program and its functions.
 
 # Features
 Flight Status Report:
